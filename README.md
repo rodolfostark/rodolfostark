@@ -3,7 +3,7 @@
 ## About Me
 Tenho 22 anos e sou técnico em informática pelo Instituto Federal do Rio Grande do Norte (IFRN), formado em 2016, Sou bacharel em Ciências e Tecnologia com ênfase em tecnologia de computação pela Universidade Federal do Rio Grande do Norte (UFRN), formado em 2019. Atualmente, sou estudante de Engenharia de computação também pela UFRN. 
 <br>
-Sou um desenvolvedor web, apaixonado também pelo mundo dos games, game engines, redes e hacking.
+Sou um desenvolvedor web, apaixonado também pelo mundo dos games, game engines, redes e segurança da informação.
 
 ## Technologies
 - Front - End com HTML, CSS, JS, ReactJS
@@ -30,6 +30,7 @@ Sou um desenvolvedor web, apaixonado também pelo mundo dos games, game engines,
 ##  Contact Me
 - <a href="https://www.linkedin.com/in/jonatas-rodolfo-santos/">Linkedin</a>
 - <a href="mailto:rodolfostark@ufrn.edu.br">E-mail</a>
+- <a href="https://tryhackme.com/p/rodolfostark">TryHackMe</a>
 </div>
 
 
