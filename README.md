@@ -30,7 +30,7 @@ Sou um desenvolvedor web, apaixonado também pelo mundo dos games, game engines,
 ##  Contact Me
 - <a href="https://www.linkedin.com/in/jonatas-rodolfo-santos/">Linkedin</a>
 - <a href="mailto:rodolfostark@ufrn.edu.br">E-mail</a>
-- <a href="https://tryhackme.com/p/rodolfostark">TryHackMe</a>
+- <a href="https://tryhackme.com/p/rodolfostark">TryHackMe<script src="https://tryhackme.com/badge/22035"></script></a>
 - <a href="https://cursos.alura.com.br/user/rodolfojonatas">Alura</a>
 </div>
 
