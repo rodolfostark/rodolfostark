@@ -7,7 +7,7 @@ Sou um desenvolvedor web, apaixonado também pelo mundo dos games, game engines 
 
 ## Technologies
 - Front - End com HTML, CSS, JS, ReactJS
-- Back - End com Java, NodeJS, Python, PostgreSQL, MySQL
+- Back - End com Java, NodeJS, Python, PostgreSQL, MySQL e SQL Server
 - <a href="https://rodolfostark.itch.io/apocalipse-zumbi">Games</a> com Unity 3D
 - Game Engine com C++
 
