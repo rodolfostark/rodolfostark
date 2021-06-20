@@ -1,4 +1,3 @@
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.12.0/devicon.min.css">
 # <a href="https://www.linkedin.com/in/jonatas-rodolfo-santos/">Jonatas Santos</a>
  
 ## About Me
@@ -27,8 +26,6 @@ Sou um desenvolvedor web, apaixonado também pelo mundo dos games, game engines 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<i class="devicon-github-original">dasdasd</i>
-
 
 ##  Contact Me
 - <a href="https://www.linkedin.com/in/jonatas-rodolfo-santos/">Linkedin</a>
