@@ -9,7 +9,7 @@ Sou um desenvolvedor web, apaixonado também pelo mundo dos games, game engines 
 - Front - End com HTML, CSS, JavaScript, ReactJS
 - Back - End com Java, NodeJS, Python, PostgreSQL, MySQL e SQL Server
 
-- Games com Unity 3D em [![Itchio Bagde](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-thebadge&logo=Itch.io&logoColor=white&link=https://rodolfostark.itch.io/apocalipse-zumbi)]
+- Games com Unity 3D em <a href="https://rodolfostark.itch.io/apocalipse-zumbi"><img alt="Itch.io" src="https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white"/></a>
 - Game Engine com C++
 
 **Languages and Tools:**  
