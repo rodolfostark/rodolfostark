@@ -1,4 +1,4 @@
-# <a href="https://www.linkedin.com/in/jonatas-rodolfo-santos/">Jonatas Santos</a>
+# <a href="https://www.linkedin.com/in/jonatas-rodolfo-santos/">Jonatas Rodolfo Pereira dos Santos</a>
  
 ## About Me
 Tenho 23 anos e sou técnico em informática pelo Instituto Federal do Rio Grande do Norte (IFRN), formado em 2016, Sou bacharel em Ciências e Tecnologia com ênfase em tecnologia de computação pela Universidade Federal do Rio Grande do Norte (UFRN), formado em 2019. Atualmente, sou estudante de Engenharia de computação também pela UFRN. 
