@@ -28,26 +28,19 @@ Sou um desenvolvedor web, apaixonado também pelo mundo dos games, game engines 
 ![Git Badge](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitLab Badge](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Clojure Badge](https://img.shields.io/badge/Clojure-%23Clojure.svg?style=for-the-badge&logo=Clojure&logoColor=Clojure)
-
+ 
 ##  Contact Me
-- <a href="https://www.linkedin.com/in/jonatas-rodolfo-santos/">Linkedin</a>
-- <a href="mailto:rodolfostark@ufrn.edu.br">E-mail</a>
-- <a href="https://tryhackme.com/p/rodolfostark">TryHackMe</a>
+<div>
+- <a href="https://www.linkedin.com/in/jonatas-rodolfo-santos/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+- <a href="mailto:rodolfostark@ufrn.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+- <a href="https://tryhackme.com/p/rodolfostark"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=TryHackMe&color=212C42&logo=TryHackMe&logoColor=FFFFFF&label=" target="_blank"></a>
 - <a href="https://cursos.alura.com.br/user/rodolfojonatas">Alura</a>
 </div>
-
-
-<!--
-**rodolfostark/rodolfostark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##
+![Snake animation](https://github.com/rodolfostark/rodolfostark/blob/output/github-contribution-grid-snake.svg)
+##
+<div>
+  <a href="https://github.com/rodolfostark">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodolfostark&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodolfostark&layout=compact&langs_count=7&theme=dracula"/>
+</div>
