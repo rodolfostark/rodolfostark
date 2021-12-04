@@ -7,7 +7,7 @@ Sou originalmente um desenvolvedor <i>web backend</i>, apaixonado também pelo d
 ## Tecnologias
 - <i>Frontend</i> com HTML, CSS, JavaScript, ReactJS
 - <i>Backend</i> com Java, NodeJS, Python, PostgreSQL, MySQL e SQL Server
-- <i>Games</i> com Unity 3D, disponíveis em <a href="https://rodolfostark.itch.io/apocalipse-zumbi"><img align="center" alt="Itch.io" src="https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white"/></a>
+- <i>Games</i> com Unity 3D, disponíveis em <a href="https://rodolfostark.itch.io/"><img align="center" alt="Itch.io" src="https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white"/></a>
 - Segurança da informação na plataforma <a href="https://tryhackme.com/p/rodolfostark">TryHackMe</a>
 - Cursos e demais formações em tecnologia na <a href="https://cursos.alura.com.br/user/rodolfojonatas">Alura</a>
 
