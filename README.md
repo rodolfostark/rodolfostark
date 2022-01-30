@@ -1,8 +1,8 @@
-## <a href="https://www.linkedin.com/in/jonatas-rodolfo-santos/">Jonatas Rodolfo Pereira dos Santos</a>
+## <a href="https://www.linkedin.com/in/jonatas-rodolfo-santos/"> Jonatas Rodolfo Pereira dos Santos </a>
  
 ## Sobre mim
-Tenho 23 anos e sou técnico em informática pelo Instituto Federal do Rio Grande do Norte (IFRN), formado em 2016, Sou bacharel em Ciências e Tecnologia com ênfase em tecnologia de computação pela Universidade Federal do Rio Grande do Norte (UFRN), formado em 2019. Atualmente, sou estudante de Engenharia de computação também pela UFRN. 
-Sou originalmente um desenvolvedor <i>web backend</i>, apaixonado também pelo desenvolvimento de jogos, <i>game engines</i> e de vez em quando me aventuro com segurança da informação.
+Tenho 24 anos e sou técnico em informática pelo Instituto Federal do Rio Grande do Norte (IFRN), formado em 2016, Sou bacharel em Ciências e Tecnologia com ênfase em Tecnologia de Computação pela Universidade Federal do Rio Grande do Norte (UFRN), formado em 2019. Atualmente, sou estudante de Engenharia de Computação também pela UFRN. 
+Iniciei minha trajetória, originalmente desenvolvedor <i>web backend</i>, tive certa experiência com engenharia de dados, e sou apaixonado também pelo desenvolvimento de jogos, <i>game engines</i> e de vez em quando me aventuro com segurança da informação.
 
 ## Tecnologias
 - <i>Frontend</i> com HTML, CSS, JavaScript, ReactJS
@@ -13,7 +13,8 @@ Sou originalmente um desenvolvedor <i>web backend</i>, apaixonado também pelo d
 
 ## Contatos
 - <a href="https://www.linkedin.com/in/jonatas-rodolfo-santos/">Linkedin</a>
-- <a href="mailto:rodolfostark@ufrn.edu.br">E-mail</a>
+- <a href="https://medium.com/@jonatas.santos.700">Medium</a>
+- <a href="mailto:rodolfojonatas@live.com">E-mail</a>
 
 ## Languagens and Ferramentas 
 ![HTML Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -36,7 +37,13 @@ Sou originalmente um desenvolvedor <i>web backend</i>, apaixonado também pelo d
 ![Eclipse Badge](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 ![Git Badge](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitLab Badge](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-![Clojure Badge](https://img.shields.io/badge/Clojure-%23Clojure.svg?style=for-the-badge&logo=Clojure&logoColor=Clojure)
+![Clojure Badge](https://img.shields.io/badge/Clojure-5881D8?style=for-the-badge&logo=clojure&logoColor=white)
+![Wandb Badge](https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=WeightsAndBiases&logoColor=white)
+![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
+![Conda](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+![GitKraken](https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=GitKraken&logoColor=white)
 
 ##
 ![Snake animation](https://github.com/rodolfostark/rodolfostark/blob/output/github-contribution-grid-snake.svg)
@@ -45,3 +52,4 @@ Sou originalmente um desenvolvedor <i>web backend</i>, apaixonado também pelo d
  <a href="https://github.com/rodolfostark">
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodolfostark&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodolfostark&layout=compact&langs_count=7&theme=dracula"/>
+ <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=rodolfostark&theme=dracula&date_format=j%20M%5B%20Y%5D"/>
