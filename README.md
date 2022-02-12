@@ -1,17 +1,18 @@
 ## <a href="https://www.linkedin.com/in/jonatas-rodolfo-santos/"> Jonatas Rodolfo Pereira dos Santos </a>
  
-## Sobre mim
+## Sobre mim <img align="center" height="30" width="30" src="https://user-images.githubusercontent.com/40967087/153697119-b5971800-f0ff-4761-bdb6-1e31436199b0.png" target="_blank"/>
+
 Tenho 24 anos e sou técnico em informática pelo Instituto Federal do Rio Grande do Norte (IFRN), formado em 2016, Sou bacharel em Ciências e Tecnologia com ênfase em Tecnologia de Computação pela Universidade Federal do Rio Grande do Norte (UFRN), formado em 2019. Atualmente, sou estudante de Engenharia de Computação também pela UFRN. 
 Iniciei minha trajetória, originalmente desenvolvedor <i>web backend</i>, tive certa experiência com engenharia de dados, e sou apaixonado também pelo desenvolvimento de jogos, <i>game engines</i> e de vez em quando me aventuro com segurança da informação.
 
-## Tecnologias
+## Tecnologias <img align="center" height="30" width="30" src="https://user-images.githubusercontent.com/40967087/153697292-cbd65158-6e30-4bf0-a42e-2ce35aa6002e.png" target="_blank"/>
 - <i>Frontend</i> com HTML, CSS, JavaScript, ReactJS
 - <i>Backend</i> com Java, NodeJS, Python, PostgreSQL, MySQL e SQL Server
 - <i>Games</i> com Unity 3D, disponíveis em <a href="https://rodolfostark.itch.io/"><img align="center" alt="Itch.io" src="https://img.shields.io/badge/Itch-%23FF0B34.svg?style=flat&logo=Itch.io&logoColor=white"/></a>
 - Segurança da informação na plataforma <a href="https://tryhackme.com/p/rodolfostark">TryHackMe</a>
 - Cursos e demais formações em tecnologia na <a href="https://cursos.alura.com.br/user/rodolfojonatas">Alura</a>
 
-## Contatos
+## Contatos <img align="center" height="30" width="30" src="https://user-images.githubusercontent.com/40967087/153697414-c8c405a7-de48-4a3d-8262-bc4cb89055ee.png" target="_blank"/>
 <div style="display: inline_block"><br>
  <a href="https://www.linkedin.com/in/jonatas-rodolfo-santos/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
@@ -24,7 +25,7 @@ Iniciei minha trajetória, originalmente desenvolvedor <i>web backend</i>, tive 
  </a>
 </div>
 
-## Languagens and Ferramentas
+## Languagens and Ferramentas <img align="center" height="30" width="30" src="https://user-images.githubusercontent.com/40967087/153697492-4b6e2564-b2e4-48ec-92e6-54e3fce1d628.png" target="_blank"/>
 
 <div style="display: inline_block"><br>
   <a href="https://github.com/rodolfostark">
