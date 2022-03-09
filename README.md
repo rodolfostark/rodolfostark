@@ -57,5 +57,5 @@ Iniciei minha trajetória, originalmente desenvolvedor <i>web backend</i>, tive 
   ![Snake animation](https://github.com/rodolfostark/rodolfostark/blob/output/github-contribution-grid-snake.svg) 
    
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodolfostark&show_icons=true&theme=radical&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodolfostark&layout=compact&langs_count=4&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodolfostark&layout=compact&langs_count=5&theme=radical"/>
 </div> 
