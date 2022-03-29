@@ -3,7 +3,7 @@
 ## Sobre mim <img align="center" height="30" width="30" src="https://user-images.githubusercontent.com/40967087/153697119-b5971800-f0ff-4761-bdb6-1e31436199b0.png" target="_blank"/>
 
 Tenho 24 anos e sou técnico em informática pelo Instituto Federal do Rio Grande do Norte (IFRN), formado em 2016, Sou bacharel em Ciências e Tecnologia com ênfase em Tecnologia de Computação pela Universidade Federal do Rio Grande do Norte (UFRN), formado em 2019. Atualmente, sou estudante de Engenharia de Computação também pela UFRN. 
-Iniciei minha trajetória com desenvolvimento <i>web backend</i>, e atualmente sou desenvolvedor <i>full stack</i>, tive certa experiência com engenharia de dados, e sou apaixonado também pelo desenvolvimento de jogos, <i>game engines</i> e de vez em quando me aventuro com segurança da informação.
+Iniciei minha trajetória com desenvolvimento <i>web back-end</i>, e atualmente sou desenvolvedor <i>full stack</i>, tive certa experiência com engenharia de dados, e sou apaixonado também pelo desenvolvimento de jogos, que desenvolvo como <i>hobby</i>, <i>game engines</i> e de vez em quando me aventuro com segurança da informação.
 
 ## Tecnologias <img align="center" height="30" width="30" src="https://user-images.githubusercontent.com/40967087/153697292-cbd65158-6e30-4bf0-a42e-2ce35aa6002e.png" target="_blank"/>
 - <i>Front-end</i> com HTML, CSS, JavaScript, ReactJS
