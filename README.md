@@ -47,7 +47,6 @@ Iniciei minha trajetória com desenvolvimento <i>web back-end</i>, e atualmente 
  <img align="center" alt="Jonatas-SqlServer" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" target="_blank">
  <img align="center" alt="Jonatas-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" target="_blank">
  <img align="center" alt="Jonatas-Clojure" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clojure/clojure-original.svg" target="_blank">
- <img align="center" alt="Jonatas-Clojure" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" target="_blank">
 </div>
 
 ##
