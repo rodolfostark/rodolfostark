@@ -55,3 +55,8 @@ Iniciei minha trajetória com desenvolvimento <i>web back-end</i>, e atualmente 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodolfostark&show_icons=true&theme=omni&include_all_commits=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodolfostark&layout=compact&theme=omni"/>
 </div> 
+
+##
+<img src="https://raw.githubusercontent.com/rodolfostark/rodolfostark/output/snake.svg" alt="Snake animation" />
+
+###
