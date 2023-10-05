@@ -1,15 +1,15 @@
 ## <a href="https://www.linkedin.com/in/jonatas-rodolfo-santos/"> Jonatas Rodolfo Pereira dos Santos </a>
  
-## About <img align="center" height="30" width="30" src="https://user-images.githubusercontent.com/40967087/153697119-b5971800-f0ff-4761-bdb6-1e31436199b0.png" target="_blank"/>
+## About <img align="center" height="30" width="30" src="https://github.com/rodolfostark/rodolfostark/assets/40967087/a8d017c7-95d1-4050-b49d-744989a8e131" target="_blank"/>
 I am 25 years old and I have a degree in computer technician from the Federal Institute of Rio Grande do Norte (IFRN), which I completed in 2016. I hold a bachelor's degree in Science and Technology with a focus on Computer Technology and a bachelor's degree in Computer Engineering, both from the Federal University of Rio Grande do Norte (UFRN), which I completed respectively in 2019 and 2022. I started my journey with Back-End Development, and now I am a Full Stack Developer. I have some experience with Data Engineering, and I am also passionate about Game Development, which I pursue as a hobby.
 
-## Frequently used Technologies <img align="center" height="30" width="30" src="https://user-images.githubusercontent.com/40967087/153697292-cbd65158-6e30-4bf0-a42e-2ce35aa6002e.png" target="_blank"/>
+## Frequently used Technologies <img align="center" height="30" width="30" src="https://github.com/rodolfostark/rodolfostark/assets/40967087/4ff72145-9780-4841-96b5-0a0a0594929e" target="_blank"/>
 - <i>Front-end</i>: React, Next.js
 - <i>Back-end</i>: C#, Java, Node.js, Oracle and SQL Server databases
 - <i>Games</i>: Unity, available in <a href="https://rodolfostark.itch.io/"><img align="center" alt="Itch.io" src="https://img.shields.io/badge/Itch-%23FF0B34.svg?style=flat&logo=Itch.io&logoColor=white"/></a>
 - Additional Education <a href="https://cursos.alura.com.br/user/rodolfojonatas"><i>Alura</i></a>
 
-## Languages ​​and Tools <img align="center" height="30" width="30" src="https://user-images.githubusercontent.com/40967087/153697492-4b6e2564-b2e4-48ec-92e6-54e3fce1d628.png" target="_blank"/>
+## Languages ​​and Tools <img align="center" height="30" width="30" src="https://github.com/rodolfostark/rodolfostark/assets/40967087/b9299278-0dd6-4ef1-9f2e-a16fff5fd39e" target="_blank"/>
 <div>
   <a href="https://github.com/rodolfostark">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -44,7 +44,7 @@ I am 25 years old and I have a degree in computer technician from the Federal In
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodolfostark&layout=compact&theme=omni"/>
 </div> 
 
-## Contact me <img align="center" height="30" width="30" src="https://user-images.githubusercontent.com/40967087/153697414-c8c405a7-de48-4a3d-8262-bc4cb89055ee.png" target="_blank"/>
+## Contact me <img align="center" height="30" width="30" src="https://github.com/rodolfostark/rodolfostark/assets/40967087/854b0ad3-6e12-4b97-941b-cc6bf7434c77" target="_blank"/>
 <div style="display: inline_block"><br>
  <a href="https://www.linkedin.com/in/jonatas-rodolfo-santos/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
