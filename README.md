@@ -1,54 +1,42 @@
 ## <a href="https://www.linkedin.com/in/jonatas-rodolfo-santos/"> Jonatas Rodolfo Pereira dos Santos </a>
  
-## Sobre mim <img align="center" height="30" width="30" src="https://user-images.githubusercontent.com/40967087/153697119-b5971800-f0ff-4761-bdb6-1e31436199b0.png" target="_blank"/>
+## About <img align="center" height="30" width="30" src="https://user-images.githubusercontent.com/40967087/153697119-b5971800-f0ff-4761-bdb6-1e31436199b0.png" target="_blank"/>
+I am 25 years old and I have a degree in computer technician from the Federal Institute of Rio Grande do Norte (IFRN), which I completed in 2016. I hold a bachelor's degree in Science and Technology with a focus on Computer Technology and a bachelor's degree in Computer Engineering, both from the Federal University of Rio Grande do Norte (UFRN), which I completed respectively in 2019 and 2022. I started my journey with Back-End Development, and now I am a Full Stack Developer. I have some experience with Data Engineering, and I am also passionate about Game Development, which I pursue as a hobby.
 
-Tenho 24 anos e sou técnico em informática pelo Instituto Federal do Rio Grande do Norte (IFRN), formado em 2016, Sou bacharel em Ciências e Tecnologia com ênfase em Tecnologia de Computação pela Universidade Federal do Rio Grande do Norte (UFRN), formado em 2019. Atualmente, sou estudante de Engenharia de Computação também pela UFRN. 
-Iniciei minha trajetória com desenvolvimento <i>web back-end</i>, e atualmente sou desenvolvedor <i>full stack</i>, tive certa experiência com engenharia de dados, e sou apaixonado também pelo desenvolvimento de jogos, que desenvolvo como <i>hobby</i>, <i>game engines</i> e de vez em quando me aventuro com segurança da informação.
+## Frequently used Technologies <img align="center" height="30" width="30" src="https://user-images.githubusercontent.com/40967087/153697292-cbd65158-6e30-4bf0-a42e-2ce35aa6002e.png" target="_blank"/>
+- <i>Front-end</i>: React, Next.js
+- <i>Back-end</i>: C#, Java, Node.js, Oracle and SQL Server databases
+- <i>Games</i>: Unity, available in <a href="https://rodolfostark.itch.io/"><img align="center" alt="Itch.io" src="https://img.shields.io/badge/Itch-%23FF0B34.svg?style=flat&logo=Itch.io&logoColor=white"/></a>
+- Additional Education <a href="https://cursos.alura.com.br/user/rodolfojonatas"><i>Alura</i></a>
 
-## Tecnologias <img align="center" height="30" width="30" src="https://user-images.githubusercontent.com/40967087/153697292-cbd65158-6e30-4bf0-a42e-2ce35aa6002e.png" target="_blank"/>
-- <i>Front-end</i> com HTML, CSS, JavaScript, ReactJS
-- <i>Back-end</i> com .Net C#, Java, NodeJS, PostgreSQL, MySQL e SQL Server
-- <i>Games</i> com Unity 3D, disponíveis em <a href="https://rodolfostark.itch.io/"><img align="center" alt="Itch.io" src="https://img.shields.io/badge/Itch-%23FF0B34.svg?style=flat&logo=Itch.io&logoColor=white"/></a>
-- Segurança da informação na plataforma <a href="https://tryhackme.com/p/rodolfostark">TryHackMe</a>
-- Cursos e demais formações em tecnologia na <a href="https://cursos.alura.com.br/user/rodolfojonatas">Alura</a>
-
-## Contatos <img align="center" height="30" width="30" src="https://user-images.githubusercontent.com/40967087/153697414-c8c405a7-de48-4a3d-8262-bc4cb89055ee.png" target="_blank"/>
-<div style="display: inline_block"><br>
- <a href="https://www.linkedin.com/in/jonatas-rodolfo-santos/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
- </a>
- <a href="https://medium.com/@jonatas.santos.700">
-  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank">
- </a>
- <a href="mailto:rodolfojonatas@live.com">
-  <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank">
- </a>
-</div>
-
-## Languagens and Ferramentas <img align="center" height="30" width="30" src="https://user-images.githubusercontent.com/40967087/153697492-4b6e2564-b2e4-48ec-92e6-54e3fce1d628.png" target="_blank"/>
-
-<div style="display: inline_block"><br>
+## Languages ​​and Tools <img align="center" height="30" width="30" src="https://user-images.githubusercontent.com/40967087/153697492-4b6e2564-b2e4-48ec-92e6-54e3fce1d628.png" target="_blank"/>
+<div>
   <a href="https://github.com/rodolfostark">
-  <img align="center" alt="Jonatas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" target="_blank">
-  <img align="center" alt="Jonatas-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" target="_blank">
-  <img align="center" alt="Jonatas-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" target="_blank">
-  <img align="center" alt="Jonatas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" target="_blank">
-  <img align="center" alt="Jonatas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" target="_blank">
-  <img align="center" alt="Jonatas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" target="_blank">
-  <img align="center" alt="Jonatas-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" target="_blank">
-  <img align="center" alt="Jonatas-Gitlab" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-plain.svg" target="_blank">
-  <img align="center" alt="Jonatas-Nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" target="_blank">
-  <img align="center" alt="Jonatas-Cpp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" target="_blank">
-  <img align="center" alt="Jonatas-Mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" target="_blank">
-  <img align="center" alt="Jonatas-Unity" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" target="_blank">
-  <img align="center" alt="Jonatas-Postegresql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" target="_blank">
- <img align="center" alt="Jonatas-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" target="_blank">
- <img align="center" alt="Jonatas-Qt" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" target="_blank">
- <img align="center" alt="Jonatas-SqlServer" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" target="_blank">
- <img align="center" alt="Jonatas-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" target="_blank">
- <img align="center" alt="Jonatas-Clojure" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clojure/clojure-original.svg" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="30" alt="anaconda logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="30" alt="amazonwebservices logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="30" alt="apachekafka logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clojure/clojure-original.svg" height="30" alt="clojure logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg" height="30" alt="neo4j logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/networkx/networkx-original.svg" height="30" alt="networkx logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="30" alt="oracle logo"  />
 </div>
-
+   
 ##
 <div>
   <a href="https://github.com/rodolfostark">   
@@ -56,7 +44,12 @@ Iniciei minha trajetória com desenvolvimento <i>web back-end</i>, e atualmente 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodolfostark&layout=compact&theme=omni"/>
 </div> 
 
-##
-<img src="https://raw.githubusercontent.com/rodolfostark/rodolfostark/output/snake.svg" alt="Snake animation" />
-
-###
+## Contact me <img align="center" height="30" width="30" src="https://user-images.githubusercontent.com/40967087/153697414-c8c405a7-de48-4a3d-8262-bc4cb89055ee.png" target="_blank"/>
+<div style="display: inline_block"><br>
+ <a href="https://www.linkedin.com/in/jonatas-rodolfo-santos/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+ </a>
+ <a href="mailto:rodolfojonatas@outlook.com">
+  <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank">
+ </a>
+</div>
