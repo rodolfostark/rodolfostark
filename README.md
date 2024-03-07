@@ -37,13 +37,6 @@ I am a Full Stack Developer with 4+ years of experience of full software develop
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="30" alt="oracle logo"  />
 </div>
    
-##
-<div>
-  <a href="https://github.com/rodolfostark">   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodolfostark&show_icons=true&theme=omni&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodolfostark&layout=compact&theme=omni"/>
-</div> 
-
 ## Contact me <img align="center" height="30" width="30" src="https://github.com/rodolfostark/rodolfostark/assets/40967087/854b0ad3-6e12-4b97-941b-cc6bf7434c77" target="_blank"/>
 <div style="display: inline_block"><br>
  <a href="https://www.linkedin.com/in/jonatas-rodolfo-santos/">
